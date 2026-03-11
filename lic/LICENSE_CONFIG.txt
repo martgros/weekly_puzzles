@@ -1,0 +1,7 @@
+# Seeker License Configuration
+#
+# This file specifies which license file to use.
+# Simply put the filename (without path) of the .sio file you want to use.
+# If this file is empty or missing, the system will automatically use the first .sio file found.
+
+Seeker_Grossbichler_348_lic.sio
